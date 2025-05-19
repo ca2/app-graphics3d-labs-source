@@ -1,0 +1,20 @@
+[submodule "app"]
+	path = app
+	url = ../app
+	branch = main
+[submodule "app-cube"]
+	path = app-cube
+	url = ../app-cube
+	branch = main
+[submodule "graphics3d"]
+	path = graphics3d
+	url = ../graphics3d
+	branch = main
+[submodule "opengl-graphics3d"]
+	path = opengl-graphics3d
+	url = ../opengl-graphics3d
+	branch = main
+[submodule "vulkan-graphics3d"]
+	path = vulkan-graphics3d
+	url = ../vulkan-graphics3d
+	branch = main
