@@ -2,9 +2,9 @@
 	path = app
 	url = ../app
 	branch = main
-[submodule "app-cube"]
-	path = app-cube
-	url = ../app-cube
+[submodule "app-graphics3d"]
+	path = app-graphics3d
+	url = ../app-graphics3d
 	branch = main
 [submodule "opengl-graphics3d"]
 	path = opengl-graphics3d
@@ -13,8 +13,4 @@
 [submodule "vulkan-graphics3d"]
 	path = vulkan-graphics3d
 	url = ../vulkan-graphics3d
-	branch = main
-[submodule "app-graphics3d"]
-	path = app-graphics3d
-	url = ../app-graphics3d
 	branch = main
